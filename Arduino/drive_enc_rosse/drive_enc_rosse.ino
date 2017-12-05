@@ -1,3 +1,4 @@
+#define USB_USBCON
 
 #include <ros.h>
 #include <rover_msgs/WheelVelocity.h>
