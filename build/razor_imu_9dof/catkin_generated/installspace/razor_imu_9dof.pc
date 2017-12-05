@@ -1,0 +1,8 @@
+prefix=/home/achu/Autonomous_navigation/install
+
+Name: razor_imu_9dof
+Description: Description of razor_imu_9dof
+Version: 1.1.1
+Cflags: -I/home/achu/Autonomous_navigation/install/include
+Libs: -L/home/achu/Autonomous_navigation/install/lib 
+Requires: dynamic_reconfigure

@@ -1,0 +1,2 @@
+man_ctrl:navigation:razor_imu_9dof:rover_msgs:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/achu/Autonomous_navigation/devel -DCMAKE_INSTALL_PREFIX=/home/achu/Autonomous_navigation/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/achu/Autonomous_navigation/devel
+
+Name: rplidar_ros
+Description: Description of rplidar_ros
+Version: 1.5.7
+Cflags: 
+Libs: -L/home/achu/Autonomous_navigation/devel/lib 
+Requires: 

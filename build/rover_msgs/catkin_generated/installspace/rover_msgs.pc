@@ -1,0 +1,8 @@
+prefix=/home/achu/Autonomous_navigation/install
+
+Name: rover_msgs
+Description: Description of rover_msgs
+Version: 0.0.0
+Cflags: -I/home/achu/Autonomous_navigation/install/include
+Libs: -L/home/achu/Autonomous_navigation/install/lib 
+Requires: 
